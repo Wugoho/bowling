@@ -5,7 +5,7 @@ public class Main {
 
 	public static void main(String... args){
 
-		Globalprinter prints = new GlobalPrinter();
+		GlobalPrinter prints = new GlobalPrinter();
 		prints.printer();
 
 	}
